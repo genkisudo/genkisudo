@@ -1,5 +1,5 @@
 # Hi there 👋
-### 🔗 Data Analyst | Analytics Engineer | Onchain Data 
+### 🔗 Data Analyst | Onchain Data 
 ---
 ### 🛠️ Tech Stack
 **Programming**
